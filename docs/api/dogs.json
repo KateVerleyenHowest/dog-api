@@ -1,4 +1,4 @@
-const dataPictures = {
+{
     "chihuahua": [
         "https://images.dog.ceo/breeds/chihuahua/black_chihuahua.jpg",
         "https://images.dog.ceo/breeds/chihuahua/marto.jpg",
